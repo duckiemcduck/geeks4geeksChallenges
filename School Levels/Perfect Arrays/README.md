@@ -42,4 +42,5 @@ Submission statistics on 10/26/2017:
 No. Submissions: 733 
 Accuracy of Submissions: 23.6%
 
-
+Submission link:
+[http://practice.geeksforgeeks.org/viewSol.php?subId=4336869&pid=2718&user=duckiemcduck](http://practice.geeksforgeeks.org/viewSol.php?subId=4336869&pid=2718&user=duckiemcduck)
