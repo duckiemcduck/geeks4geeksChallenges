@@ -1,6 +1,6 @@
 # About
 
-This repository aims to contain solutions for the several coding activities at [Practice/GeeksForGeeks](practice.geeksforgeeks.org/), an interactive subdomain to a portal dedicated to Computer Science and correlated professional development.
+This repository aims to contain solutions for the several coding activities at [Practice/GeeksForGeeks](http://practice.geeksforgeeks.org/), an interactive subdomain to a portal dedicated to Computer Science and correlated professional development.
 
 ## Navigation
 
