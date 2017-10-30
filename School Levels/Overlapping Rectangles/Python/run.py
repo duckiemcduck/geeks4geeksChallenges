@@ -37,7 +37,7 @@ class Rectangle:
 
     #This method will return 1 or 0 based on the condition for an overlapping rectangle with regard to the input rectangle
     def overlaps(self, r):
-        return (1 if not((self.isToRightOf(r)) or (self.isToLeftOf(r)) or (self.isAboveOf(r)) or (self.isUnder(r))) else 0)
+        return (1 if not((self.isToRightOf(r)) or (self.isToLeftOf(r)) or (self.isAbove(r)) or (self.isUnder(r))) else 0)
 
 #Main code block    
 for x in range(0,int(input())):
