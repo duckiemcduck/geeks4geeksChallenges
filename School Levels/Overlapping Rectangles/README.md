@@ -45,6 +45,8 @@ Output:
 ```
 
 Link to Page: http://practice.geeksforgeeks.org/problems/overlapping-rectangles/0
+
 Submissions as of 10/30/2017: Submissions: 9305 Accuracy:20.4%
+
 Link to Submission: http://practice.geeksforgeeks.org/viewSol.php?subId=4374401&pid=789&user=duckiemcduck
 
